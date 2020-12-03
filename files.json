@@ -1,0 +1,57 @@
+{
+  "qucchia": {
+    "files": [
+      {
+        "name": "text",
+        "extension": "txt",
+        "size": 38,
+        "modified": 32891798,
+        "folder": 1,
+        "contents": "Hello World!\nThis is a text document!"
+      },
+      {
+        "name": "example",
+        "extension": "env",
+        "size": 38,
+        "modified": 32891798,
+        "folder": 1,
+        "contents": "Is this how we do it? - @aipha_coder"
+      },
+      {
+        "name": "project",
+        "extension": "json",
+        "size": 38,
+        "modified": 32891798,
+        "folder": 2,
+        "contents": {
+          "name": "Bob",
+          "age": 40,
+          "retired": false
+        }
+      }
+    ],
+    "folders": [
+      {
+        "name": "C",
+        "files": [],
+        "folders": [
+          2
+        ],
+        "folder": null
+      },
+      {
+        "name": "D",
+        "files": [
+          5,
+          8
+        ],
+        "folders": [
+          2,
+          6,
+          12
+        ],
+        "folder": null
+      }
+    ]
+  }
+}
